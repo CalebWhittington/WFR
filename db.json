@@ -1,15 +1,18 @@
 {
   "employees": {
-    "%257Cexternal_id%253D62715": [
-       {
-         "id": 0,
-          "username": "cwhittington",
-          "first_name": "Caleb",
-          "last_name": "Whittington",
-          "employee_id": "62715",
-          "external_id": "62715",     
-          "primary_account_id": 0
-       }
+    "257Cexternal_id": {
+        "253D62715": [
+          {
+            "id": 0,
+            "username": "cwhittington",
+            "first_name": "Caleb",
+            "last_name": "Whittington",
+            "employee_id": "62715",
+            "external_id": "62715",     
+            "primary_account_id": 0
+          }
+        ]
+      }
     ]
   },
   "config": {
