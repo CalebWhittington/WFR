@@ -1,21 +1,15 @@
 {
-  "a": {
-    "b": {
-      "c": {
-        "d": {
-          "test": 0
-        }
-      }
-    }
-  },
   "employees": {
-    "257Cexternal_id": {
-        "253D62715": [
-          {
+    "257Cexternal_id": [
+        {
+          "253D62715": [
+            {
             "id": 0
-          }
-        ]
-      }
+            }
+          ]
+        }
+      ]
+    }
   },
   "config": {
     "cost-centers" : {
