@@ -4,7 +4,8 @@
       {
         "id": 0
       }
-    ]
+    ],
+    "test": {"testid": 0}
   },
   "config": {
     "cost-centers" : {
